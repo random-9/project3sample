@@ -1,8 +1,8 @@
 language: ruby
 rvm:
-    - ruby-head
+- ruby-head
 deploy:
   provider: heroku
-  app:
+  app: secure-cliffs-11362
   api_key:
-    secure:
+    secure: Jym+s5JZRKHQS/+0J6YmL9qeyykfhDVTfwYDuMgzeJNw4NhF7kw6Jf0QamxOuFYp3S4BORaUm4huKmD42Z5kdAb7eBJhC6W7bgUQfIJWwqeDJ2nc8kqp+va3ipiG7zB+TDL2FH1bXmUbPiAITJzjhMtU5C6Zj3VF3bb82m8sBhIKEMGN/mf7PLE3CB38iXC4bsaSRqqz/r1gRt0S8qOhvNu7BmujgTlxvZBW9NO3ke8nJL3sfg6Wheqf8VsrIctz6a88m2Ivwqx0Rp1Vf7uVbKJWVjNWTSUmaBflER3mKKV7ReG18Ddm7eZMgoSq80XufxFDVAc2nu5W0zZijkPgJAZng3o62onT2NcB33ylyfoIBGImdCA65NyTgPtieNK5vBz5HvJGT4hPh60IAZCPIYomxj1RM5F1s0NN8g7mH5+yfWdJ0kW0KGAt7pYld3a6JJIyDXA7nIofo6Zylt++QaLLzRBbHhy/8OV+tvZzVVniFgcWqBxpi3JCEDO0OmntBH7t57ahnkVjRlamPk0osyMa2SiND0QffxA4SfhS2hL5r5mFMjfZ+lDCBIYF9vMcbPZoJMYGYBCxdURU6865v0Hy+PWiKM5Qa2yF38+2zdK3LOWwyolzGYXuJdEuicPzp34mBOPskc98fv1ZKBb2B866y6wMseT+9N0RRb+kJW8=
